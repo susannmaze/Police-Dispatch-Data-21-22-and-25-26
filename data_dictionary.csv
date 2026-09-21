@@ -1,0 +1,18 @@
+column,description
+InNum,Dispatch incident number from source system.
+CallDateTime,Date and time of dispatch event.
+Address,Original address/location string.
+Normalized Address,Uppercase/space-normalized address used for crosswalk matching.
+Call Type,Dispatch event classification.
+Crime-related,Derived flag in 2025-26; blank in 2021-22 unless separately classified.
+Report,Police report/case number when present.
+Dispatch Police Beat / Area,Observed dispatch beat/area; not used to assign political geography.
+DOW,Day of week.
+Hour,"Hour of day, 0-23."
+Ward,Columbia ward where resolved.
+Precinct,Election precinct where resolved.
+Geography Assignment Source,How ward/precinct were assigned.
+Geography Confidence,Confidence/status of geography assignment.
+Police Beat Source,Note preserving beat as observed field only.
+City,City label.
+State,State abbreviation.
