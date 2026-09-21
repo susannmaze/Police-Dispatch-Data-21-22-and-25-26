@@ -1,0 +1,3 @@
+period,start_date,end_date,days_covered,total_calls,calls_per_day,calls_with_report,report_rate_pct,traffic_stops,traffic_stops_per_day,traffic_stop_share_pct,non_traffic_calls_per_day,unique_call_types,unique_addresses
+2021-22,2021-09-03,2022-09-03,366,89262,243.89,11165,12.51,5409,14.78,6.06,229.11,90,25714
+2025-26,2025-08-12,2026-08-05,359,86658,241.39,9725,11.22,17903,49.87,20.66,191.52,88,8762
